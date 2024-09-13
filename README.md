@@ -27,7 +27,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ## 🛠️ Technologies & Tools:
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+- **Languages**: <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtlawrence&show_icons=true&locale=en" alt="xtlawrence" /></p>
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 - **Frameworks/Libraries**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
