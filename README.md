@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lawrence Nadar</h1>
-<h3 align="center">💻 I'm a passionate software developer focused on building modern web. 🚀 I love to learn about new technologies, and I’m currently working on mastering React.js and Node.js. 💡 I enjoy solving problems and contributing to open-source projects.</h3>
+<!-- <h3 align="center">💻 I'm a passionate software developer focused on building modern web. 🚀 I love to learn about new technologies, and I’m currently working on mastering React.js and Node.js. 💡 I enjoy solving problems and contributing to open-source projects.</h3> -->
+- 💻 I'm a passionate software developer focused on building modern web.
+- 🚀 I love to learn about new technologies, and I’m currently working on mastering React.js and Node.js.
+- 💡 I enjoy solving problems and contributing to open-source projects.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtlawrence&label=Profile%20views&color=0e75b6&style=flat" alt="xtlawrence" /> </p>
