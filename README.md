@@ -53,10 +53,11 @@
 <a href="https://instagram.com/law_renz_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="law_renz_01" height="30" width="40" /></a>
 </p>
 
-<div style="tyle="color:blue;text-align:center;">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtlawrence&show_icons=true&locale=en" alt="xtlawrence" /></p>
-</div>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtlawrence&" alt="xtlawrence" /></p>
