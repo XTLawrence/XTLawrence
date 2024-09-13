@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Lawrence Nadar</h1>
 <p>-💻 I'm a passionate software developer focused on building modern web.</p>
 <p>-🚀 I love to learn about new technologies, and I’m currently working on mastering React.js and Node.js.</p>
